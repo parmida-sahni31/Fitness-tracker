@@ -1,2 +1,2 @@
 # Fitness-tracker
-The fitness tracker gives the user their bmi, and for specific activities: calories burnt, suggestions for warm and cool down. 
+The fitness tracker gives the user their bmi, and for specific activities: calories burnt, suggestions for warm up and cool down. 
